@@ -42,6 +42,7 @@ there are definitely some properties you should add!*/
         width:200px;
         display: inline-block;
         vertical-align: top;
+        height:100%;
     }
     nav ul {
         list-style-type: none;
